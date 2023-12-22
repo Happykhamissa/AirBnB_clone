@@ -1,0 +1,15 @@
+/* styles/3-header.css */
+header {
+    background-color: #FF0000;
+    height: 70px;
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    width: 20px; /* Adjust as needed */
+    height: 20px; /* Adjust as needed */
+    background-image: url('../images/logo.png');
+    background-size: contain;
+    margin-left: 20px; /* Adjust as needed */
+}
